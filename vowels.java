@@ -1,6 +1,6 @@
-public class VowelConsonant {
+public class vowels {
 
- public static void main(String[] args) {
+ public static void main(String args[]) {
 
  char ch = ‘A’;
 
@@ -16,6 +16,4 @@ public class VowelConsonant {
 
  }
 
- }
-
-}
+ }}
